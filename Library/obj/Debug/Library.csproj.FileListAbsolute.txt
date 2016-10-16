@@ -1,0 +1,18 @@
+c:\users\ismail\documents\visual studio 2013\Projects\Library\Library\bin\Debug\Library.exe.config
+c:\users\ismail\documents\visual studio 2013\Projects\Library\Library\bin\Debug\Library.exe
+c:\users\ismail\documents\visual studio 2013\Projects\Library\Library\bin\Debug\Library.pdb
+c:\users\ismail\documents\visual studio 2013\Projects\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+c:\users\ismail\documents\visual studio 2013\Projects\Library\Library\obj\Debug\Library.Form1.resources
+c:\users\ismail\documents\visual studio 2013\Projects\Library\Library\obj\Debug\Library.Properties.Resources.resources
+c:\users\ismail\documents\visual studio 2013\Projects\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+c:\users\ismail\documents\visual studio 2013\Projects\Library\Library\obj\Debug\Library.exe
+c:\users\ismail\documents\visual studio 2013\Projects\Library\Library\obj\Debug\Library.pdb
+C:\Users\ismail\Desktop\Library\Library\bin\Debug\Library.exe.config
+C:\Users\ismail\Desktop\Library\Library\obj\Debug\Library.exe
+C:\Users\ismail\Desktop\Library\Library\obj\Debug\Library.pdb
+C:\Users\ismail\Desktop\Library\Library\bin\Debug\Library.exe
+C:\Users\ismail\Desktop\Library\Library\bin\Debug\Library.pdb
+C:\Users\ismail\Desktop\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\ismail\Desktop\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\ismail\Desktop\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\ismail\Desktop\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
